@@ -39,7 +39,6 @@ intelligent automation at scale.
 
 
 # Gemini Enterprise AI Orchestrator (PoC)
-<img width="1566" height="915" alt="Google Orchestrator v1 0" src="https://github.com/user-attachments/assets/cf7f6cc3-9495-42dd-b6ce-53d930a8b1b8" />
 
 ## Overview
 Google Gemini を中核としたマルチエージェント・オーケストレーション基盤のPoCです。
@@ -47,7 +46,7 @@ Google Gemini を中核としたマルチエージェント・オーケストレ
 業務処理の自動化と結果の一元表示を実現するアーキテクチャを設計・実装しています。
 
 ## Architecture
-
+<img width="1566" height="915" alt="Google Orchestrator v1 0" src="https://github.com/user-attachments/assets/cf7f6cc3-9495-42dd-b6ce-53d930a8b1b8" />
 
 ## Background & Motivation
 20年超のエンタープライズアーキテクト経験をベースに、
