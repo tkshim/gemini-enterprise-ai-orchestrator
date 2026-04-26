@@ -9,14 +9,7 @@ This architecture automates cross-platform business workflows and aggregates
 results into a unified Google UI.
 
 ## Architecture
-[Google Gemini Enterprise UI]
-↓
-[Orchestrator Agent - Gemini 1.5 Pro]
-↓ A2A        ↓ API      ↓ Connector
-[ServiceNow] [Salesforce] [Workday]
-Agent    [Agentforce]   Agent
-↓
-[Aggregated Results on Google UI]
+<img width="1566" height="915" alt="Google Orchestrator v1 0" src="https://github.com/user-attachments/assets/cf7f6cc3-9495-42dd-b6ce-53d930a8b1b8" />
 
 ## Background & Motivation
 Built on 20+ years of enterprise architecture experience combined with
@@ -46,6 +39,7 @@ intelligent automation at scale.
 
 
 # Gemini Enterprise AI Orchestrator (PoC)
+<img width="1566" height="915" alt="Google Orchestrator v1 0" src="https://github.com/user-attachments/assets/cf7f6cc3-9495-42dd-b6ce-53d930a8b1b8" />
 
 ## Overview
 Google Gemini を中核としたマルチエージェント・オーケストレーション基盤のPoCです。
@@ -53,14 +47,7 @@ Google Gemini を中核としたマルチエージェント・オーケストレ
 業務処理の自動化と結果の一元表示を実現するアーキテクチャを設計・実装しています。
 
 ## Architecture
-[Google Gemini Enterprise UI]
-↓
-[Orchestrator Agent - Gemini 1.5 Pro]
-↓ A2A        ↓ API      ↓ Connector
-[ServiceNow] [Salesforce] [Workday]
-Agent    [Agentforce]   Agent
-↓
-[Google UI に結果を集約表示]
+
 
 ## Background & Motivation
 20年超のエンタープライズアーキテクト経験をベースに、
